@@ -1,5 +1,5 @@
 # Python Developer — Technical Research Initiative
-**Duration:** January 2024 - February 2024 | **Location:** Anantapur, Andhra Pradesh, India
+**Duration:** January 2024 - February 2024 | **Location:** Hyderabad, Telanagana, India
 
 ## Project Overview
 This project focuses on building an automated data engineering and web scraping pipeline designed to extract, clean, and database-synchronize e-commerce product listings and user sentiments seamlessly from dynamic modern web pages.
